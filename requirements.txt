@@ -1,6 +1,0 @@
-random
-words_english
-words_russia
-frases
-termcolor
-
